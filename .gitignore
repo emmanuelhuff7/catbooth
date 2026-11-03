@@ -13,3 +13,4 @@ node_modules/
 *.png
 *.mov
 *.mp4
+!assets/preview.png
